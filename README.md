@@ -1,4 +1,4 @@
-# IPL 2024 Data Analytics Project
+# IPL Data Analytics Project
 
 This project focuses on analyzing IPL (Indian Premier League) data using Jupyter Notebook for exploratory data analysis (EDA) and creating various visualizations to extract insights from the data.
 
